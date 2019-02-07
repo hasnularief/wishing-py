@@ -1,0 +1,2 @@
+# wishing-py
+WISHING CMS USING DJANGO
